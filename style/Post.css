@@ -1,0 +1,48 @@
+.subir{
+    margin-top: -50px
+  }
+  
+      footer{
+      color: #555;
+      background: #5dabb8;
+      padding: 25px;
+      font-weight: 300;
+      margin-top: 10px;
+      
+  }
+  .footer p{
+      margin-bottom: 0;
+      font-size: 14px;
+      margin: 0 0 10px;
+      font-weight: 300;
+  }
+  footer p a{
+      color: #555;
+      font-weight: 400;
+  }
+  
+  footer p a:hover {
+      color: #9f26aa;
+      text-decoration: none;
+  }
+  
+  .noresize {
+    resize: none; 
+  }
+  
+  .comentario{
+    margin-bottom: 20px;
+    height: 1100px;
+  }
+  .inicio {
+    margin-top: 5px;
+  }
+  
+  .publicaciones {
+    margin-bottom: 20px;
+  
+  }
+  .post-1{
+      margin-top: 10px;
+      margin-left: 80%;
+  }
